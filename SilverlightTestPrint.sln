@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightTestPrint", "SilverlightTestPrint\SilverlightTestPrint.csproj", "{16979925-2CD8-414F-9B7A-A006DE64F62E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SilverlightTestPrint.Web", "SilverlightTestPrint.Web\SilverlightTestPrint.Web.csproj", "{EAE05BD4-7E9C-4003-8010-DEFD6F4F356C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrinterLib", "RawPrinterHelper\PrinterLib.csproj", "{B961DA95-4113-4EE1-AF91-C0D47B6B4E03}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16979925-2CD8-414F-9B7A-A006DE64F62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16979925-2CD8-414F-9B7A-A006DE64F62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16979925-2CD8-414F-9B7A-A006DE64F62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16979925-2CD8-414F-9B7A-A006DE64F62E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAE05BD4-7E9C-4003-8010-DEFD6F4F356C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAE05BD4-7E9C-4003-8010-DEFD6F4F356C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAE05BD4-7E9C-4003-8010-DEFD6F4F356C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAE05BD4-7E9C-4003-8010-DEFD6F4F356C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B961DA95-4113-4EE1-AF91-C0D47B6B4E03}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B961DA95-4113-4EE1-AF91-C0D47B6B4E03}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B961DA95-4113-4EE1-AF91-C0D47B6B4E03}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B961DA95-4113-4EE1-AF91-C0D47B6B4E03}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
